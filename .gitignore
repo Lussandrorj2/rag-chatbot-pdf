@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+
+# Variáveis de ambiente
+.env
+
+# Banco vetorial
+vectorstore/
+
+# Arquivos temporários
+__pycache__/
+*.pyc
