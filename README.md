@@ -12,6 +12,11 @@ Projeto de **Recuperação Aumentada por Geração (RAG)** para consulta semânt
 ## 🏗️ Arquitetura
 PDFs → Chunking → Embeddings → FAISS → Busca Semântica
 
+## Dependências externas
+Este projeto utiliza o Ollama para execução local de modelos LLM.
+Instale em: https://ollama.com
+
+
 ## ▶️ Como rodar o projeto
 
 ```bash
