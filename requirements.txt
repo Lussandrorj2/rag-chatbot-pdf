@@ -37,7 +37,6 @@ langchain==1.2.1
 langchain-classic==1.0.1
 langchain-community==0.4.1
 langchain-core==1.2.6
-langchain-openai==1.1.6
 langchain-text-splitters==1.1.0
 langgraph==1.0.5
 langgraph-checkpoint==3.0.1
@@ -52,7 +51,6 @@ mypy_extensions==1.1.0
 narwhals==2.15.0
 networkx==3.6.1
 numpy==2.4.0
-openai==2.14.0
 orjson==3.11.5
 ormsgpack==1.12.1
 packaging==25.0
@@ -104,3 +102,6 @@ watchdog==6.0.0
 xxhash==3.6.0
 yarl==1.22.0
 zstandard==0.25.0
+
+
+
